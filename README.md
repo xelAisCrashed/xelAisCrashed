@@ -1,4 +1,4 @@
-![](https://komarev.com/ghpvc/?username=URUSERNAMEHERE&color=a00020&style=for-the-badge&)
+![](https://komarev.com/ghpvc/?username=URUSERNAMEHERE&color=a00020&style=for-the-badge&label=VISITED+HERETICS)
 ## Hi.
 ▶︎ •၊၊||၊|။||||။‌‌‌‌‌၊|||၊|။|၊|။||||||။‌‌‌‌‌၊||||||။‌‌‌‌‌၊|||||။‌‌‌‌‌၊|||||||။‌‌‌‌‌၊|||၊|။• 3:07
 
