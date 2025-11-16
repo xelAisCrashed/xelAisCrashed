@@ -6,9 +6,4 @@
 
 ══════════════════════════════════════════════════════════════════════
 
-<a href="https://xelAisCRASHED.pythonanywhere.com/link">
-  <img
-    src="https://xelAisCRASHED.pythonanywhere.com"
-    alt="Current Spotify Song"
-  />
-</a>
+<img width="369" height="196" alt="image" src="https://github.com/user-attachments/assets/368fee55-d748-4c49-b6b6-e1754b6c5266" />
