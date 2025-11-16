@@ -7,8 +7,8 @@
 ══════════════════════════════════════════════════════════════════════
 
 <a href="https://xelAisCRASHED.pythonanywhere.com/link">
-  <img ?spin=true&scan=true&eq_color=rainbow&theme=dark>
+  <img 
     src="https://xelAisCRASHED.pythonanywhere.com"
     alt="Current Spotify Song"
-  />
+  />?spin=true&scan=true&eq_color=rainbow&theme=dark>
 </a
