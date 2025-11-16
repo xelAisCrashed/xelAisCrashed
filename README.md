@@ -5,7 +5,7 @@
 
 ══════════════════════════════════════════════════════════════════════
 
-<img src="https://github.com/user-attachments/assets/ebce2bdc-6c84-4471-97f9-e7e2fddaad4b" width="400">
+<img src="https://github.com/user-attachments/assets/ebce2bdc-6c84-4471-97f9-e7e2fddaad4b" width="800">
 
 ══════════════════════════════════════════════════════════════════════
 
