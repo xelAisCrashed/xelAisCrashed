@@ -6,4 +6,4 @@
 
 ══════════════════════════════════════════════════════════════════════
 
-<img width="369" height="196" alt="image" src="https://github.com/user-attachments/assets/368fee55-d748-4c49-b6b6-e1754b6c5266" />
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31tfyuxslhzvnqcf5wtuhmlcveya&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&profanity=false&bar_color=eb0000)](https://github.com/kittinan/spotify-github-profile)
