@@ -11,4 +11,4 @@
     src="https://xelAisCRASHED.pythonanywhere.com"
     alt="Current Spotify Song"
   />
-</a>
+</a?spin=true&scan=true&eq_color=rainbow&theme=dark>
