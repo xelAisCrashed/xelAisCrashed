@@ -1,4 +1,4 @@
-![](https://komarev.com/ghpvc/?username=URUSERNAMEHERE&color=red)
+![](https://komarev.com/ghpvc/?username=URUSERNAMEHERE&color=a00020&style=for-the-badge&)
 ## Hi.
 ▶︎ •၊၊||၊|။||||။‌‌‌‌‌၊|||၊|။|၊|။||||||။‌‌‌‌‌၊||||||။‌‌‌‌‌၊|||||။‌‌‌‌‌၊|||||||။‌‌‌‌‌၊|||၊|။• 3:07
 
