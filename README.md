@@ -10,5 +10,5 @@
   <img 
     src="https://xelAisCRASHED.pythonanywhere.com"
     alt="Current Spotify Song"
-  />?spin=true&scan=true&eq_color=rainbow&theme=dark>
+  />
 </a
