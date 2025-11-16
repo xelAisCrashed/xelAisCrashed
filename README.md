@@ -1,8 +1,9 @@
 ![](https://komarev.com/ghpvc/?username=URUSERNAMEHERE&color=a00020&style=for-the-badge&label=VISITED+HERETICS)
-# But it counts my views too... am I a heretic?......
+#### But it counts my views too... am I a heretic?......
 
-## Hi.
-▶︎ •၊၊||၊|။||||။‌‌‌‌‌၊|||၊|။|၊|။||||||။‌‌‌‌‌၊||||||။‌‌‌‌‌၊|||||။‌‌‌‌‌၊|||||||။‌‌‌‌‌၊|||၊|။• 3:07
+# Hi.
+
+══════════════════════════════════════════════════════════════════════
 
 ![Vanity](vanity.jpg)
 
