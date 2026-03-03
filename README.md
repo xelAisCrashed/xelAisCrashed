@@ -1,7 +1,7 @@
-![](https://komarev.com/ghpvc/?username=URUSERNAMEHERE&color=a00020&style=for-the-badge&label=VISITED+HERETICS)
-#### But it counts my views too... am I a heretic?......
+![](https://komarev.com/ghpvc/?username=URUSERNAMEHERE&color=a00020&style=for-the-badge&label=THE+THEATERGOERS)
+## Welcome!
 
-# Hi.
+
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Roboto+Condensed&pause=1000&color=C50000&width=435&lines=%E2%9F%A2+A+birdbrain%2C+baby%2C+I+don't+think+my+head+is+coming+off" alt="Typing SVG" /></a>
 ═════════════════════════════════════════════════════════════════════════════════
