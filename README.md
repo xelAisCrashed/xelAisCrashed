@@ -1,5 +1,6 @@
 ![](https://komarev.com/ghpvc/?username=URUSERNAMEHERE&color=a00020&style=for-the-badge&label=THE+THEATERGOERS)
-## Welcome!
+
+## $\color{hsl(0,100%,50%)}{\textsf{Welcome!}}$
 
 
 
